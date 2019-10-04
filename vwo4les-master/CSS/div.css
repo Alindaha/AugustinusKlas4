@@ -1,0 +1,61 @@
+html,body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #ABCABC;
+}
+
+#boven {
+    background-color: red;
+    width: 80%;
+    height: 15%;
+}
+
+#container {
+    background-color: green;
+    width: 80%;
+    height: 75%;
+    display: flex;
+}
+
+#menu {
+    background-color: yellow;
+    width: 20%;
+    height: 100%;
+}
+
+#items {
+    background-color: indianred;
+    width: 60%;
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+ul a {
+    background-color: blue;
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    margin-top: 4px;
+    padding: 20px;
+}
+
+ul a:hover {
+    background-color: black;
+}
+
+.bericht {
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: 10%;
+    border: 5px solid black;
+    margin-bottom: 20px;
+    padding: 10px;
+}
