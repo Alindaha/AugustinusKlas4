@@ -32,6 +32,12 @@ body {
     height: 100%;
 }
 
+#fotos {
+    background-color: pink;
+    width: 19%;
+    height: 100%;
+}
+
 ul {
     list-style-type: none;
     font-size: 30px;
@@ -58,4 +64,26 @@ ul a:hover {
     border: 5px solid black;
     margin-bottom: 20px;
     padding: 10px;
+}
+
+#tacktiek1 {
+    background-color: grey;
+    width:100%
+}
+
+.tekstvak {
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: 5%;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.fotovak {
+    width: 80%;
+    height: 50px;
+    margin-left: 5%;
+    background-image: url(/vwo4les-master/plaatjes/graphene.jpg);
+    background-position: center;
 }
