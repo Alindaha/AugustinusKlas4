@@ -67,24 +67,12 @@ ul a:hover {
     padding: 10px;
 }
 
-#tacktiek1 {
-    background-color: grey;
+.tacktiek1 {
+    background-image: url(../plaatjes/i0.png);
+    height: 100px;
     width:100%
 }
 
-.tekstvak {
-    background-color: whitesmoke;
-    width: 80%;
-    margin-left: 5%;
-    border: 2px solid black;
-    margin-bottom: 20px;
-    padding: 10px;
-}
+.tacktiek2 {
 
-.fotovak {
-    width: 80%;
-    height: 50px;
-    margin-left: 5%;
-    background-image: url(/vwo4les-master/plaatjes/graphene.jpg);
-    background-position: center;
 }
