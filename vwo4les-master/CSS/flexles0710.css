@@ -69,10 +69,15 @@ ul a:hover {
 
 .tacktiek1 {
     background-image: url(../plaatjes/i0.png);
-    height: 100px;
+    background-size: 100%;
+    height: 175px;
     width:100%
 }
 
 .tacktiek2 {
+    background-color: grey;
+}
 
+.tacktiek2 img{
+    width: 100%;
 }
