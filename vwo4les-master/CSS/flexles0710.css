@@ -66,6 +66,13 @@ ul a:hover {
     margin-bottom: 20px;
     padding: 10px;
 }
+#googleMap iframe {
+    margin-left:50px;
+    width:300px;
+    height:225;
+    border:0px;
+    border-radius: 25px;
+}
 
 .tacktiek1 {
     background-image: url(../plaatjes/i0.png);
