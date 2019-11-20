@@ -1,0 +1,116 @@
+* {
+    margin: 0px;
+    padding: 0pc;
+    box-sizing:border-box;
+}
+
+html, body {
+margin: 0px;
+height: 100%;
+}
+#boven{
+    height: 15%;
+    width: 100%;
+    background-image:url("../images/bbq.jpg");
+    background-size: 100%;
+    background-position-y: 60%;
+    margin: 0%;
+    border: solid 2px;
+}
+#onder{
+    height: 100%;
+    width: 20%;
+    background-color:lightseagreen;
+    border: solid 3px;
+    background-image:url("../images/houtachtergrond.jpg");
+    background-size: 100%;
+}
+#container{
+    height: 100%;
+    width: 100%;
+    margin:0%;
+    display: flex;
+}
+ul a {
+    background-color:grey;
+    display:block;
+    text-decoration: none;
+    text-align: center;
+    color: blanchedalmond;
+    margin-top: 4px;
+    padding: 10px;
+    border: solid 3px black;
+}
+ul a:hover{
+    background-color: rgb(60,60,60);
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: #c74348;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    font-family: "impact";
+}
+#rechts{
+    height: 100%;
+    width: 80%;
+    border: solid 3px;
+    background-image:url("../images/steniger.jpg");
+    background-size: 100%;
+}
+b{
+    text-shadow:  -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+h2{
+    color: blanchedalmond;
+    margin-left: 5%;
+    font-size: 50px;
+    margin-top: 30px;
+}
+p{
+    color: blanchedalmond;
+    margin-left: 5%;
+    font-size: 200%;
+}
+.vak{
+    height: fit-content;
+    width: 80%;
+    background-color: grey;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    border: solid 3px;
+}
+.image{
+    height: 30%;
+    border: solid 5px;
+    border-color: black;
+}
+a{
+    color: rgb(71, 158, 173);
+    text-decoration: none;
+}
+#onderzoekplaatje{
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.plaatjes{   
+    height: 25%;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+#image{
+    height: 100%;
+    border: solid black 4px;
+}
+p{
+    margin-right: 10%;
+}
